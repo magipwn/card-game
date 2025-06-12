@@ -45,8 +45,6 @@ def main():
         
         
         
-        # Frame rate limit
-        clock.tick(60)
 
         sprite_rect = sprite.get_rect()
         
